@@ -20,3 +20,7 @@ Frontend:
     - Com o link copiado entraremos no arquivo lib/components/ApiUrl e trocaremos o link da variável baseUrl, (excluindo a barra que virá ao final). Salve as alterações.
     - Agora basta abrir a classe main do projeto e selecionar o dispositivo que será usado para rodar a aplicação, funciona tanto para o Chrome quanto para o Emulador.
     - Rode a aplicação e usufrua da nossa solução!
+  
+
+Vídeo no YouTube - Passo a passo:
+https://youtu.be/JQA7dZvs3DA
